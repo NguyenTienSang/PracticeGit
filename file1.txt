@@ -2,3 +2,4 @@ Create new file for main branch
 
 Update commit 1.1 version
 Update commit 1.2 version update
+Update file after that using git fetch to update change from remote to orgin/master
