@@ -3,5 +3,7 @@ Create new file for main branch
 Update commit 1.1 version
 Update commit 1.2 version update
 Update file after that using git fetch to update change from remote to orgin/master
-Edit this file after that use git pull to update code to local branch (Update content in main branch)
-This is content in main branch
+Edit this file after that use git pull to update code to local branch (Update content in main branch) / (Practice fix conflict code)
+This is content in main branch (In here will have conflict)
+Edit this file after that use git pull to update code to local branch (Update in develop branch)
+This is content in develop branch
